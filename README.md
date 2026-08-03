@@ -3,10 +3,10 @@
 <br/>
 
 <a href="https://alicodez.com">
-  <img src="https://img.shields.io/badge/alicodez.com-080C10?style=for-the-badge&logoColor=10B981&color=080C10" height="42"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C10,100:080C10&height=160&section=header&text=alicodez.com&fontSize=54&fontColor=10B981&fontAlignY=55&animation=fadeIn" width="100%"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-080C10?style=for-the-badge&logo=linkedin&logoColor=10B981" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Twitter-080C10?style=for-the-badge&logo=x&logoColor=10B981" /></a>
@@ -22,52 +22,45 @@
 ## 🏅 Certifications
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <br/>
-      <a href="#">
-        <img src="./assets/certifications/cert-1.png" width="92%" style="border-radius:6px;"/>
-      </a>
-      <br/><br/>
-      <b>[ Certification Name 1 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center">
-      <br/>
-      <a href="#">
-        <img src="./assets/certifications/cert-2.png" width="92%" style="border-radius:6px;"/>
-      </a>
-      <br/><br/>
-      <b>[ Certification Name 2 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <br/>
-      <a href="#">
-        <img src="./assets/certifications/cert-3.png" width="92%" style="border-radius:6px;"/>
-      </a>
-      <br/><br/>
-      <b>[ Certification Name 3 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center">
-      <br/>
-      <a href="#">
-        <img src="./assets/certifications/cert-4.png" width="92%" style="border-radius:6px;"/>
-      </a>
-      <br/><br/>
-      <b>[ Certification Name 4 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+
+<br/>
+
+<a href="#">
+  <img src="./assets/certifications/cert-1.png" width="85%" style="border-radius:8px;"/>
+</a>
+<br/><br/>
+<b>[ Certification Name 1 ]</b><br/>
+<sub>Issued by [ Platform ] · [ Month Year ]</sub>
+
+<br/><br/><br/>
+
+<a href="#">
+  <img src="./assets/certifications/cert-2.png" width="85%" style="border-radius:8px;"/>
+</a>
+<br/><br/>
+<b>[ Certification Name 2 ]</b><br/>
+<sub>Issued by [ Platform ] · [ Month Year ]</sub>
+
+<br/><br/><br/>
+
+<a href="#">
+  <img src="./assets/certifications/cert-3.png" width="85%" style="border-radius:8px;"/>
+</a>
+<br/><br/>
+<b>[ Certification Name 3 ]</b><br/>
+<sub>Issued by [ Platform ] · [ Month Year ]</sub>
+
+<br/><br/><br/>
+
+<a href="#">
+  <img src="./assets/certifications/cert-4.png" width="85%" style="border-radius:8px;"/>
+</a>
+<br/><br/>
+<b>[ Certification Name 4 ]</b><br/>
+<sub>Issued by [ Platform ] · [ Month Year ]</sub>
+
+<br/>
+
 </div>
 
 <br/>
@@ -110,21 +103,6 @@
 </table>
 
 <sub>🔁 11 merged PRs across 4 open-source projects — updated as new ones land.</sub>
-
-</div>
-
-<br/>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AAliKKhan&show_icons=true&count_private=true&hide_border=true&bg_color=080C10&title_color=10B981&icon_color=10B981&text_color=E5E7EB&ring_color=10B981" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AAliKKhan&hide_border=true&background=080C10&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AAliKKhan&bg_color=080C10&color=10B981&line=10B981&point=E5E7EB&area=true&area_color=10B981&hide_border=true" width="97%" />
 
 </div>
 
