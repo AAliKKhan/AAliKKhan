@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://alicodez.com">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C10,100:080C10&height=160&section=header&text=alicodez.com&fontSize=54&fontColor=10B981&fontAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=58&duration=2800&pause=1400&color=10B981&center=true&vCenter=true&width=620&height=100&lines=alicodez.com" />
 </a>
 
 <br/>
@@ -22,45 +22,52 @@
 ## 🏅 Certifications
 
 <div align="center">
-
-<br/>
-
-<a href="#">
-  <img src="./assets/certifications/cert-1.png" width="85%" style="border-radius:8px;"/>
-</a>
-<br/><br/>
-<b>[ Certification Name 1 ]</b><br/>
-<sub>Issued by [ Platform ] · [ Month Year ]</sub>
-
-<br/><br/><br/>
-
-<a href="#">
-  <img src="./assets/certifications/cert-2.png" width="85%" style="border-radius:8px;"/>
-</a>
-<br/><br/>
-<b>[ Certification Name 2 ]</b><br/>
-<sub>Issued by [ Platform ] · [ Month Year ]</sub>
-
-<br/><br/><br/>
-
-<a href="#">
-  <img src="./assets/certifications/cert-3.png" width="85%" style="border-radius:8px;"/>
-</a>
-<br/><br/>
-<b>[ Certification Name 3 ]</b><br/>
-<sub>Issued by [ Platform ] · [ Month Year ]</sub>
-
-<br/><br/><br/>
-
-<a href="#">
-  <img src="./assets/certifications/cert-4.png" width="85%" style="border-radius:8px;"/>
-</a>
-<br/><br/>
-<b>[ Certification Name 4 ]</b><br/>
-<sub>Issued by [ Platform ] · [ Month Year ]</sub>
-
-<br/>
-
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <br/>
+      <a href="#">
+        <img src="./assets/certifications/cert-1.png" width="99%" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <b>[ Certification Name 1 ]</b><br/>
+      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center">
+      <br/>
+      <a href="#">
+        <img src="./assets/certifications/cert-2.png" width="99%" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <b>[ Certification Name 2 ]</b><br/>
+      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br/>
+      <a href="#">
+        <img src="./assets/certifications/cert-3.png" width="99%" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <b>[ Certification Name 3 ]</b><br/>
+      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center">
+      <br/>
+      <a href="#">
+        <img src="./assets/certifications/cert-4.png" width="99%" style="border-radius:8px;"/>
+      </a>
+      <br/><br/>
+      <b>[ Certification Name 4 ]</b><br/>
+      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br/>
@@ -69,38 +76,15 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/openai/10B981" width="34"/><br/><br/>
-      <b>openai-agents-python</b><br/>
-      <sub>OpenAI</sub><br/><br/>
-      <img src="https://img.shields.io/badge/6-Merged_PRs-10B981?style=for-the-badge&labelColor=080C10" /><br/><br/>
-      <a href="#"><sub>View PRs →</sub></a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/googlebard/10B981" width="34"/><br/><br/>
-      <b>OpenClaw</b><br/>
-      <sub>Open Source</sub><br/><br/>
-      <img src="https://img.shields.io/badge/3-Merged_PRs-10B981?style=for-the-badge&labelColor=080C10" /><br/><br/>
-      <a href="#"><sub>View PRs →</sub></a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/google/10B981" width="34"/><br/><br/>
-      <b>Google ADK</b><br/>
-      <sub>Google</sub><br/><br/>
-      <img src="https://img.shields.io/badge/1-Merged_PR-10B981?style=for-the-badge&labelColor=080C10" /><br/><br/>
-      <a href="#"><sub>View PR →</sub></a>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://cdn.simpleicons.org/n8n/10B981" width="34"/><br/><br/>
-      <b>n8n</b><br/>
-      <sub>n8n.io</sub><br/><br/>
-      <img src="https://img.shields.io/badge/1-Merged_PR-10B981?style=for-the-badge&labelColor=080C10" /><br/><br/>
-      <a href="#"><sub>View PR →</sub></a>
-    </td>
-  </tr>
-</table>
+<a href="#"><img src="./assets/prs/openai-agents-python.svg" width="90%"/></a>
+<br/><br/>
+<a href="#"><img src="./assets/prs/openclaw.svg" width="90%"/></a>
+<br/><br/>
+<a href="#"><img src="./assets/prs/google-adk.svg" width="90%"/></a>
+<br/><br/>
+<a href="#"><img src="./assets/prs/n8n.svg" width="90%"/></a>
+
+<br/><br/>
 
 <sub>🔁 11 merged PRs across 4 open-source projects — updated as new ones land.</sub>
 
