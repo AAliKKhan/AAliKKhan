@@ -27,7 +27,7 @@
     <td width="50%" align="center">
       <br/>
       <a href="#">
-        <img src="./assets/certifications/cert-1.png" width="99%" style="border-radius:8px;"/>
+        <img src="./assets/certificates/cert-1.png" width="99%" style="border-radius:8px;"/>
       </a>
       <br/><br/>
       <b>[ Certification Name 1 ]</b><br/>
@@ -37,7 +37,7 @@
     <td width="50%" align="center">
       <br/>
       <a href="#">
-        <img src="./assets/certifications/cert-2.png" width="99%" style="border-radius:8px;"/>
+        <img src="./assets/certificates/cert-2.png" width="99%" style="border-radius:8px;"/>
       </a>
       <br/><br/>
       <b>[ Certification Name 2 ]</b><br/>
@@ -49,7 +49,7 @@
     <td width="50%" align="center">
       <br/>
       <a href="#">
-        <img src="./assets/certifications/cert-3.png" width="99%" style="border-radius:8px;"/>
+        <img src="./assets/certificates/cert-3.png" width="99%" style="border-radius:8px;"/>
       </a>
       <br/><br/>
       <b>[ Certification Name 3 ]</b><br/>
@@ -59,7 +59,7 @@
     <td width="50%" align="center">
       <br/>
       <a href="#">
-        <img src="./assets/certifications/cert-4.png" width="99%" style="border-radius:8px;"/>
+        <img src="./assets/certificates/cert-4.png" width="99%" style="border-radius:8px;"/>
       </a>
       <br/><br/>
       <b>[ Certification Name 4 ]</b><br/>
@@ -76,13 +76,13 @@
 
 <div align="center">
 
-<a href="#"><img src="./assets/prs/openai-agents-python.svg" width="90%"/></a>
+<a href="#"><img src="./assets/openai-agents-python.svg" width="90%"/></a>
 <br/><br/>
-<a href="#"><img src="./assets/prs/openclaw.svg" width="90%"/></a>
+<a href="#"><img src="./assets/openclaw.svg" width="90%"/></a>
 <br/><br/>
-<a href="#"><img src="./assets/prs/google-adk.svg" width="90%"/></a>
+<a href="#"><img src="./assets/google-adk.svg" width="90%"/></a>
 <br/><br/>
-<a href="#"><img src="./assets/prs/n8n.svg" width="90%"/></a>
+<a href="#"><img src="./assets/n8n.svg" width="90%"/></a>
 
 <br/><br/>
 
