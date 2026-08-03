@@ -1,75 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C10,100:10B981&height=180&section=header&text=ALICODEZ&fontSize=52&fontColor=10B981&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Automation%20Engineer&descAlignY=58&descColor=E5E7EB&animation=fadeIn" width="100%"/>
-
 <br/>
 
-<a href="https://alicodez.com"><img src="https://img.shields.io/badge/alicodez.com-080C10?style=for-the-badge&logo=googlechrome&logoColor=10B981" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-080C10?style=for-the-badge&logo=linkedin&logoColor=10B981" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-080C10?style=for-the-badge&logo=x&logoColor=10B981" /></a>
+<a href="https://alicodez.com">
+  <img src="https://img.shields.io/badge/alicodez.com-080C10?style=for-the-badge&logoColor=10B981&color=080C10" height="42"/>
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=560&lines=Building+AI+Agents+%26+Automation+Systems;Voice+Agents+%C2%B7+Chat+Agents+%C2%B7+Receptionist+Agents;Shipping+in+public%2C+one+commit+at+a+time." />
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-080C10?style=for-the-badge&logo=linkedin&logoColor=10B981" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-080C10?style=for-the-badge&logo=x&logoColor=10B981" /></a>
+<a href="https://github.com/AAliKKhan"><img src="https://img.shields.io/badge/GitHub-080C10?style=for-the-badge&logo=github&logoColor=10B981" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-080C10?style=for-the-badge&logo=gmail&logoColor=10B981" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/AAliKKhan/AAliKKhan/main/assets/divider.svg" width="100%" height="1" style="background:#10B981;opacity:0.2;"/>
+<img src="https://raw.githubusercontent.com/AAliKKhan/AAliKKhan/main/assets/divider.svg" width="100%" height="1"/>
 
 ## 🏅 Certifications
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <br/>
+      <a href="#">
+        <img src="./assets/certifications/cert-1.png" width="92%" style="border-radius:6px;"/>
+      </a>
+      <br/><br/>
+      <b>[ Certification Name 1 ]</b><br/>
+      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center">
+      <br/>
+      <a href="#">
+        <img src="./assets/certifications/cert-2.png" width="92%" style="border-radius:6px;"/>
+      </a>
+      <br/><br/>
+      <b>[ Certification Name 2 ]</b><br/>
+      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br/>
+      <a href="#">
+        <img src="./assets/certifications/cert-3.png" width="92%" style="border-radius:6px;"/>
+      </a>
+      <br/><br/>
+      <b>[ Certification Name 3 ]</b><br/>
+      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center">
+      <br/>
+      <a href="#">
+        <img src="./assets/certifications/cert-4.png" width="92%" style="border-radius:6px;"/>
+      </a>
+      <br/><br/>
+      <b>[ Certification Name 4 ]</b><br/>
+      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+## 🌱 Open Source Contributions
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <br/>
-      <b>[ Certification 1 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/View_Credential-10B981?style=flat-square&labelColor=080C10" /></a>
-      <br/><br/>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/openai/10B981" width="34"/><br/><br/>
+      <b>openai-agents-python</b><br/>
+      <sub>OpenAI</sub><br/><br/>
+      <img src="https://img.shields.io/badge/6-Merged_PRs-10B981?style=for-the-badge&labelColor=080C10" /><br/><br/>
+      <a href="#"><sub>View PRs →</sub></a>
     </td>
-    <td align="center" width="33%">
-      <br/>
-      <b>[ Certification 2 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/View_Credential-10B981?style=flat-square&labelColor=080C10" /></a>
-      <br/><br/>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/googlebard/10B981" width="34"/><br/><br/>
+      <b>OpenClaw</b><br/>
+      <sub>Open Source</sub><br/><br/>
+      <img src="https://img.shields.io/badge/3-Merged_PRs-10B981?style=for-the-badge&labelColor=080C10" /><br/><br/>
+      <a href="#"><sub>View PRs →</sub></a>
     </td>
-    <td align="center" width="33%">
-      <br/>
-      <b>[ Certification 3 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/View_Credential-10B981?style=flat-square&labelColor=080C10" /></a>
-      <br/><br/>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/google/10B981" width="34"/><br/><br/>
+      <b>Google ADK</b><br/>
+      <sub>Google</sub><br/><br/>
+      <img src="https://img.shields.io/badge/1-Merged_PR-10B981?style=for-the-badge&labelColor=080C10" /><br/><br/>
+      <a href="#"><sub>View PR →</sub></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <br/>
-      <b>[ Certification 4 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/View_Credential-10B981?style=flat-square&labelColor=080C10" /></a>
-      <br/><br/>
-    </td>
-    <td align="center" width="33%">
-      <br/>
-      <b>[ Certification 5 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/View_Credential-10B981?style=flat-square&labelColor=080C10" /></a>
-      <br/><br/>
-    </td>
-    <td align="center" width="33%">
-      <br/>
-      <b>[ Certification 6 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub><br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/View_Credential-10B981?style=flat-square&labelColor=080C10" /></a>
-      <br/><br/>
+    <td align="center" width="25%">
+      <img src="https://cdn.simpleicons.org/n8n/10B981" width="34"/><br/><br/>
+      <b>n8n</b><br/>
+      <sub>n8n.io</sub><br/><br/>
+      <img src="https://img.shields.io/badge/1-Merged_PR-10B981?style=for-the-badge&labelColor=080C10" /><br/><br/>
+      <a href="#"><sub>View PR →</sub></a>
     </td>
   </tr>
 </table>
+
+<sub>🔁 11 merged PRs across 4 open-source projects — updated as new ones land.</sub>
 
 </div>
 
@@ -92,74 +132,126 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs&theme=dark" />
-
-<br/><br/>
-
-**AI / Agent Engineering**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,openai&theme=dark" />
-<sub><br/>[ Add: LangChain · OpenAI Agents SDK · MCP · Voice Agent Stack ]</sub>
-
-<br/><br/>
-
-**Database & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,vercel&theme=dark" />
-
-</div>
-
-<br/>
-
-## 💼 Client Work — Live Sites
-
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Stack</th>
-    <th>Live</th>
+    <td width="50%" valign="top">
+      <br/>
+      <b>Core Engineering</b> &nbsp;<sub><code>CORE-ENG</code></sub><br/>
+      <sub>Your technical foundation and development engine.</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,nextjs,postgres&theme=dark" />
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b>Frontend & Experience Design</b> &nbsp;<sub><code>FE-DESIGN</code></sub><br/>
+      <sub>UI, motion, and immersive visual systems.</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind,figma,threejs,bootstrap&theme=dark" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Framer_Motion-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/GSAP-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/shadcn/ui-080C10?style=flat-square&color=10B981" />
+      <br/><br/>
+    </td>
   </tr>
   <tr>
-    <td><b>[ Project Name 1 ]</b></td>
-    <td>[ One-line description of what it does / who it's for ]</td>
-    <td><sub>[ Tech used ]</sub></td>
-    <td><a href="#"><img src="https://img.shields.io/badge/Visit-10B981?style=flat-square&labelColor=080C10" /></a></td>
-  </tr>
-  <tr>
-    <td><b>[ Project Name 2 ]</b></td>
-    <td>[ One-line description of what it does / who it's for ]</td>
-    <td><sub>[ Tech used ]</sub></td>
-    <td><a href="#"><img src="https://img.shields.io/badge/Visit-10B981?style=flat-square&labelColor=080C10" /></a></td>
-  </tr>
-  <tr>
-    <td><b>[ Project Name 3 ]</b></td>
-    <td>[ One-line description of what it does / who it's for ]</td>
-    <td><sub>[ Tech used ]</sub></td>
-    <td><a href="#"><img src="https://img.shields.io/badge/Visit-10B981?style=flat-square&labelColor=080C10" /></a></td>
+    <td width="50%" valign="top">
+      <br/>
+      <b>Backend, Cloud & DevOps</b> &nbsp;<sub><code>BE-CLOUD</code></sub><br/>
+      <sub>Deployment, infrastructure, and integrations.</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=vercel,stripe,docker,kubernetes,githubactions&theme=dark" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Clerk-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Sanity-080C10?style=flat-square&color=10B981" />
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b>AI & Automation Systems</b> &nbsp;<sub><code>AI-AUTO</code></sub><br/>
+      <sub>Intelligent agents & automation workflows.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Agentic_Dev-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Agent_SDK-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Prompt_Eng.-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/n8n-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Gemini_CLI-080C10?style=flat-square&color=10B981" />
+      <br/>
+      <img src="https://img.shields.io/badge/MCP_Servers-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Spec--Driven-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Claude_Code-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/OpenClaw-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Agent_Skills-080C10?style=flat-square&color=10B981" />
+      <br/><br/>
+    </td>
   </tr>
 </table>
 
-</div>
-
 <br/>
 
-## 🌐 Connect
+## 💼 Client Work
 
-<div align="center">
-
-<a href="https://alicodez.com"><img src="https://img.shields.io/badge/Website-alicodez.com-080C10?style=for-the-badge&logoColor=10B981&labelColor=080C10&color=10B981" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-@ali__codez-080C10?style=for-the-badge&logo=linkedin&logoColor=10B981&labelColor=080C10" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter/X-@ali__codez-080C10?style=for-the-badge&logo=x&logoColor=10B981&labelColor=080C10" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Contact-080C10?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=080C10" /></a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="./assets/clients/project-1.png" width="100%" style="border-radius:6px;"/>
+      <br/><br/>
+      <b>[ Project Name 1 ]</b><br/>
+      <sub>[ One-line description — who it's for and what it solves ]</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Stripe-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/AI_Agent-080C10?style=flat-square&color=10B981" />
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Visit_Live_Site-10B981?style=for-the-badge&labelColor=080C10" /></a>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="./assets/clients/project-2.png" width="100%" style="border-radius:6px;"/>
+      <br/><br/>
+      <b>[ Project Name 2 ]</b><br/>
+      <sub>[ One-line description — who it's for and what it solves ]</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Clerk-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Automation-080C10?style=flat-square&color=10B981" />
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Visit_Live_Site-10B981?style=for-the-badge&labelColor=080C10" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="./assets/clients/project-3.png" width="100%" style="border-radius:6px;"/>
+      <br/><br/>
+      <b>[ Project Name 3 ]</b><br/>
+      <sub>[ One-line description — who it's for and what it solves ]</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Voice_Agent-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/n8n-080C10?style=flat-square&color=10B981" />
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Visit_Live_Site-10B981?style=for-the-badge&labelColor=080C10" /></a>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="./assets/clients/project-4.png" width="100%" style="border-radius:6px;"/>
+      <br/><br/>
+      <b>[ Project Name 4 ]</b><br/>
+      <sub>[ One-line description — who it's for and what it solves ]</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Sanity-080C10?style=flat-square&color=10B981" />
+      <img src="https://img.shields.io/badge/Vercel-080C10?style=flat-square&color=10B981" />
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/Visit_Live_Site-10B981?style=for-the-badge&labelColor=080C10" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
