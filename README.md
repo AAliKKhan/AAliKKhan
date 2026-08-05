@@ -24,26 +24,27 @@
 <div align="center">
 
 <table width="100%" cellspacing="0" cellpadding="0">
+
 <tr>
 <td width="50%" valign="top">
 
 <a href="#">
-<img src="./assets/agentic-ai-certificate.jpg" width="100%">
+<img src="./assets/certificates/agentic-ai-certificate.jpg" width="100%">
 </a>
 
-### Certification Name 1
-<sub>Issued by Platform • Month Year</sub>
+### Agentic AI Certification
+<sub>Issued by PIAIC</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
 <a href="#">
-<img src="./assets/mcp-certificate.jpg" width="100%">
+<img src="./assets/certificates/mcp-certificate.jpg" width="100%">
 </a>
 
-### Certification Name 2
-<sub>Issued by Platform • Month Year</sub>
+### Model Context Protocol (MCP) Certification
+<sub>Issued by PIAIC</sub>
 
 </td>
 </tr>
@@ -52,22 +53,22 @@
 <td width="50%" valign="top">
 
 <a href="#">
-<img src="./assets/certificates/cert-3.png" width="100%">
+<img src="./assets/certificates/prompt-context-eng-certificate.jpg" width="100%">
 </a>
 
-### Certification Name 3
-<sub>Issued by Platform • Month Year</sub>
+### Prompt & Context Engineering Certification
+<sub>Issued by PIAIC</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
 <a href="#">
-<img src="./assets/certificates/cert-4.png" width="100%">
+<img src="./assets/certificates/cert-4.jpg" width="100%">
 </a>
 
-### Certification Name 4
-<sub>Issued by Platform • Month Year</sub>
+### Google AI Agents Certification
+<sub>Issued by Google</sub>
 
 </td>
 </tr>
@@ -75,8 +76,6 @@
 </table>
 
 </div>
-
-<br/>
 
 ## 🌱 Open Source Journey
 
