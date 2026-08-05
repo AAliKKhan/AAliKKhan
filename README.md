@@ -24,53 +24,34 @@
 <div align="center">
 
 <table width="100%">
-
 <tr>
-
-<td width="50%" align="center" valign="top">
-
-## **Agents SDK**
-
-Voice Pipeline • SDK Fixes • Bug Fixes
-
-**✅ 6 Merged Pull Requests**
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-## **Google ADK**
-
-Documentation • Examples
-
-**✅ Official Contributor**
-
-</td>
-
+<th width="30%"><h2>Project</h2></th>
+<th width="50%"><h2>Contributions</h2></th>
+<th width="20%"><h2>Status</h2></th>
 </tr>
 
 <tr>
+<td align="center"><h2><strong>Agents SDK</strong></h2></td>
+<td align="center">Voice Pipeline • SDK Fixes • Bug Fixes</td>
+<td align="center">✅ <strong>6 PRs Merged</strong></td>
+</tr>
 
-<td width="50%" align="center" valign="top">
+<tr>
+<td align="center"><h2><strong>Google ADK</strong></h2></td>
+<td align="center">Documentation • Examples</td>
+<td align="center">✅ <strong>Official Contributor</strong></td>
+</tr>
 
-## **OpenClaw**
+<tr>
+<td align="center"><h2><strong>OpenClaw</strong></h2></td>
+<td align="center">CLI • Docs • DX Improvements</td>
+<td align="center">✅ <strong>Merged</strong></td>
+</tr>
 
-CLI • Documentation • DX Improvements
-
-**✅ Merged Contributions**
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-## **n8n**
-
-Workflow Improvements
-
-**✅ Merged Contributions**
-
-</td>
-
+<tr>
+<td align="center"><h2><strong>n8n</strong></h2></td>
+<td align="center">Workflow Improvements</td>
+<td align="center">✅ <strong>Merged</strong></td>
 </tr>
 
 </table>
@@ -81,7 +62,7 @@ Workflow Improvements
 
 <br/>
 
-### **11+ Merged Pull Requests • 4 Open Source Projects • Official Google ADK Contributor**
+<h3>11+ Merged Pull Requests • 4 Open Source Projects • Official Google ADK Contributor</h3>
 
 </div>
 
