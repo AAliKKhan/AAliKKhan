@@ -8,10 +8,17 @@
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-080C10?style=for-the-badge&logo=linkedin&logoColor=10B981" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-080C10?style=for-the-badge&logo=x&logoColor=10B981" /></a>
-<a href="https://github.com/AAliKKhan"><img src="https://img.shields.io/badge/GitHub-080C10?style=for-the-badge&logo=github&logoColor=10B981" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-080C10?style=for-the-badge&logo=gmail&logoColor=10B981" /></a>
+<a href="https://www.linkedin.com/in/muhammad-ali-adnan-48035a2b8/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-080C10?style=for-the-badge&logo=linkedin&logoColor=10B981" />
+</a>
+
+<a href="https://www.instagram.com/ali_codez/" target="_blank">
+  <img src="https://img.shields.io/badge/@ali__codez-080C10?style=for-the-badge&logo=instagram&logoColor=10B981" />
+</a>
+
+<a href="mailto:muhammda014@gmail.com">
+  <img src="https://img.shields.io/badge/Email-080C10?style=for-the-badge&logo=gmail&logoColor=10B981" />
+</a>
 
 </div>
 
@@ -62,7 +69,7 @@
 
 <br/>
 
-<h3>11+ Merged Pull Requests • 4 Open Source Projects • Official Google ADK Contributor</h3>
+<h3>11+ Merged Pull Requests • 4 Open Source Projects </h3>
 
 </div>
 
