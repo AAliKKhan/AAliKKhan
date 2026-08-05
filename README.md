@@ -22,52 +22,58 @@
 ## 🏅 Certifications
 
 <div align="center">
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <br/>
-      <a href="#">
-        <img src="./assets/certificates/cert-1.png" width="99%" style="border-radius:8px;"/>
-      </a>
-      <br/><br/>
-      <b>[ Certification Name 1 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center">
-      <br/>
-      <a href="#">
-        <img src="./assets/certificates/cert-2.png" width="99%" style="border-radius:8px;"/>
-      </a>
-      <br/><br/>
-      <b>[ Certification Name 2 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <br/>
-      <a href="#">
-        <img src="./assets/certificates/cert-3.png" width="99%" style="border-radius:8px;"/>
-      </a>
-      <br/><br/>
-      <b>[ Certification Name 3 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center">
-      <br/>
-      <a href="#">
-        <img src="./assets/certificates/cert-4.png" width="99%" style="border-radius:8px;"/>
-      </a>
-      <br/><br/>
-      <b>[ Certification Name 4 ]</b><br/>
-      <sub>Issued by [ Platform ] · [ Month Year ]</sub>
-      <br/><br/>
-    </td>
-  </tr>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
+
+<a href="#">
+<img src="./assets/certificates/cert-1.png" width="100%">
+</a>
+
+### Certification Name 1
+<sub>Issued by Platform • Month Year</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="#">
+<img src="./assets/certificates/cert-2.png" width="100%">
+</a>
+
+### Certification Name 2
+<sub>Issued by Platform • Month Year</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="#">
+<img src="./assets/certificates/cert-3.png" width="100%">
+</a>
+
+### Certification Name 3
+<sub>Issued by Platform • Month Year</sub>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="#">
+<img src="./assets/certificates/cert-4.png" width="100%">
+</a>
+
+### Certification Name 4
+<sub>Issued by Platform • Month Year</sub>
+
+</td>
+</tr>
+
 </table>
+
 </div>
 
 <br/>
