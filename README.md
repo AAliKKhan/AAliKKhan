@@ -28,7 +28,7 @@
 <td width="50%" valign="top">
 
 <a href="#">
-<img src="./assets/certificates/cert-1.png" width="100%">
+<img src="./assets/agentic-ai-certificate.jpg" width="100%">
 </a>
 
 ### Certification Name 1
@@ -39,7 +39,7 @@
 <td width="50%" valign="top">
 
 <a href="#">
-<img src="./assets/certificates/cert-2.png" width="100%">
+<img src="./assets/mcp-certificate.jpg" width="100%">
 </a>
 
 ### Certification Name 2
