@@ -25,13 +25,13 @@
 
 <table width="100%">
 <tr>
-<th width="30%"><h2>Project</h2></th>
+<th width="30%"><h2>Platformk</h2></th>
 <th width="50%"><h2>Contributions</h2></th>
 <th width="20%"><h2>Status</h2></th>
 </tr>
 
 <tr>
-<td align="center"><h2><strong>Agents SDK</strong></h2></td>
+<td align="center"><h2><strong>OpenAI SDK</strong></h2></td>
 <td align="center">Voice Pipeline • SDK Fixes • Bug Fixes</td>
 <td align="center">✅ <strong>6 PRs Merged</strong></td>
 </tr>
@@ -39,19 +39,19 @@
 <tr>
 <td align="center"><h2><strong>Google ADK</strong></h2></td>
 <td align="center">Documentation • Examples</td>
-<td align="center">✅ <strong>Official Contributor</strong></td>
+<td align="center">✅ <strong>1 PR Merged</strong></td>
 </tr>
 
 <tr>
 <td align="center"><h2><strong>OpenClaw</strong></h2></td>
 <td align="center">CLI • Docs • DX Improvements</td>
-<td align="center">✅ <strong>Merged</strong></td>
+<td align="center">✅ <strong>3 PRs Merged</strong></td>
 </tr>
 
 <tr>
 <td align="center"><h2><strong>n8n</strong></h2></td>
 <td align="center">Workflow Improvements</td>
-<td align="center">✅ <strong>Merged</strong></td>
+<td align="center">✅ <strong>1 PR Merged</strong></td>
 </tr>
 
 </table>
