@@ -102,63 +102,21 @@
 
 <div align="center">
 
-<table width="100%">
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,react,nextjs,nodejs,fastapi,postgres,prisma,supabase,tailwind,threejs,figma,docker,kubernetes,git,github,githubactions,vercel,cloudflare,linux,bash,firebase,stripe&theme=dark&perline=13" />
 
 <br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs,figma,vite&theme=dark" />
-
-<br/><br/>
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express,postgres,prisma,supabase&theme=dark" />
-
-<br/><br/>
-
-### AI & Agent Engineering
-
-<img src="https://skillicons.dev/icons?i=openai&theme=dark" />
-
-<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_Agents_SDK-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Model_Context_Protocol-4B5563?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-059669?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Spec--Driven_Development-374151?style=for-the-badge" />
-
-<br/><br/>
-
-### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,githubactions,git,github,cloudflare,linux&theme=dark" />
-
-<br/><br/>
-
-### CMS, Auth & Payments
-
-<img src="https://skillicons.dev/icons?i=stripe,firebase&theme=dark" />
 
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
 <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
 <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-111111?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge" />
 
 </div>
 
