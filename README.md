@@ -100,63 +100,101 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      <b>Core Engineering</b> &nbsp;<sub><code>CORE-ENG</code></sub><br/>
-      <sub>Your technical foundation and development engine.</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,nextjs,postgres&theme=dark" />
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <b>Frontend & Experience Design</b> &nbsp;<sub><code>FE-DESIGN</code></sub><br/>
-      <sub>UI, motion, and immersive visual systems.</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=tailwind,figma,threejs,bootstrap&theme=dark" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Framer_Motion-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/GSAP-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/shadcn/ui-080C10?style=flat-square&color=10B981" />
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      <b>Backend, Cloud & DevOps</b> &nbsp;<sub><code>BE-CLOUD</code></sub><br/>
-      <sub>Deployment, infrastructure, and integrations.</sub>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=vercel,stripe,docker,kubernetes,githubactions&theme=dark" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Clerk-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/Sanity-080C10?style=flat-square&color=10B981" />
-      <br/><br/>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <b>AI & Automation Systems</b> &nbsp;<sub><code>AI-AUTO</code></sub><br/>
-      <sub>Intelligent agents & automation workflows.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Agentic_Dev-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/Agent_SDK-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/Prompt_Eng.-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/n8n-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/Gemini_CLI-080C10?style=flat-square&color=10B981" />
-      <br/>
-      <img src="https://img.shields.io/badge/MCP_Servers-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/Spec--Driven-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/Claude_Code-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/OpenClaw-080C10?style=flat-square&color=10B981" />
-      <img src="https://img.shields.io/badge/Agent_Skills-080C10?style=flat-square&color=10B981" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Core Engineering
+
+<sub>Languages, frameworks & databases</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,postgres&theme=dark" />
+
+<br/><br/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Frontend
+
+<sub>Interfaces, animation & design systems</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tailwind,figma,threejs,bootstrap&theme=dark" />
 
 <br/>
+
+<img src="https://skillicons.dev/icons?i=materialui&theme=dark" />
+
+<br/><br/>
+
+`Framer Motion` • `GSAP` • `shadcn/ui`
+
+<br/><br/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Backend & Cloud
+
+<sub>Infrastructure, deployment & authentication</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,githubactions,stripe&theme=dark" />
+
+<br/><br/>
+
+`Clerk` • `Sanity`
+
+<br/><br/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Engineering
+
+<sub>LLMs, agents & automation</sub>
+
+<br/><br/>
+
+`OpenAI Agents SDK` • `Google ADK`
+
+<br/>
+
+`MCP` • `n8n` • `Claude Code`
+
+<br/>
+
+`OpenClaw` • `Gemini CLI`
+
+<br/>
+
+`Prompt Engineering` • `Spec-Driven Development`
+
+<br/><br/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ## 💼 Client Work
 
