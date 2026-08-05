@@ -64,11 +64,11 @@
 <td width="50%" valign="top">
 
 <a href="#">
-<img src="./assets/certificates/cert-4.jpg" width="100%">
+<img src="./assets/certificates/1784045527547.jfif" width="100%">
 </a>
 
-### Google AI Agents Certification
-<sub>Issued by Google</sub>
+### Data Science Certification
+<sub>Issued by NED University of Engineering & Technology</sub>
 
 </td>
 </tr>
