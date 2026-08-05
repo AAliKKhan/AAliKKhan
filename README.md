@@ -72,7 +72,26 @@
 
 <br/>
 
+## 🌱 Open Source Journey
 
+<div align="center">
+
+| Project | Contributions | Status |
+|---------|--------------|--------|
+| <strong><h3>Agents SDK</h3></strong> | Voice Pipeline • SDK Fixes • Bug Fixes | ✅ 6 PRs Merged |
+| <strong><h3>Google ADK</h3></strong> | Documentation • Examples | ✅ Official Contributor |
+| <strong><h3>OpenClaw</h3></strong> | CLI • Docs • DX Improvements | ✅ Merged |
+| <strong><h3>n8n</h3></strong> | Workflow Improvements | ✅ Merged |
+
+<br/>
+
+<img src="./assets/contributions-banner.svg" width="100%" />
+
+<br/>
+
+**11+ Merged Pull Requests** • **4 Open Source Projects** • **Official Google ADK Contributor**
+
+</div>
 
 ## 🛠️ Tech Stack
 
