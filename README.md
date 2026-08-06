@@ -31,7 +31,7 @@
 
 <table width="100%">
 <tr>
-<th width="30%"><h2>Platformk</h2></th>
+<th width="30%"><h2>Platform</h2></th>
 <th width="50%"><h2>Contributions</h2></th>
 <th width="20%"><h2>Status</h2></th>
 </tr>
