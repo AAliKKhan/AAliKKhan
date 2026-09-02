@@ -51,7 +51,7 @@
 <tr>
 <td align="center"><h2><strong>OpenClaw</strong></h2></td>
 <td align="center">CLI • Docs • DX Improvements</td>
-<td align="center">✅ <strong>3 PRs Merged</strong></td>
+<td align="center">✅ <strong>4 PRs Merged</strong></td>
 </tr>
 
 <tr>
