@@ -45,7 +45,7 @@
 <tr>
 <td align="center"><h2><strong>Google ADK</strong></h2></td>
 <td align="center">Documentation • Examples</td>
-<td align="center">✅ <strong>1 PR Merged</strong></td>
+<td align="center">✅ <strong>5 PR Merged</strong></td>
 </tr>
 
 <tr>
