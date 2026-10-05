@@ -45,7 +45,7 @@
 <tr>
 <td align="center"><h2><strong>Google ADK</strong></h2></td>
 <td align="center">Documentation • Examples</td>
-<td align="center">✅ <strong>6 PR Merged</strong></td>
+<td align="center">✅ <strong>9 PR Merged</strong></td>
 </tr>
 
 <tr>
@@ -68,7 +68,7 @@
 
 <br/>
 
-<h3>16+ Merged Pull Requests • 4 Open Source Projects </h3>
+<h3>19+ Merged Pull Requests • 4 Open Source Projects </h3>
 
 </div>
 
