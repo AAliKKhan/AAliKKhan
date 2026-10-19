@@ -68,7 +68,7 @@
 
 <br/>
 
-<h3>19+ Merged Pull Requests • 4 Open Source Projects </h3>
+<h3>33+ Merged Pull Requests • 4 Open Source Projects </h3>
 
 </div>
 
